@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy==2.2.0
+matplotlib==3.9.4
+seaborn==0.13.2
+psycopg2==2.9.10
+plotly==5.24.1
+jupyter==1.0.0
+ipython==8.29.0
