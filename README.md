@@ -50,8 +50,6 @@ HH.ruSQL/
 ```bash
 git clone https://github.com/sergei62-gi/HH.ruSQL.git
 Установить зависимости (если есть):
-bash
-Copy
 pip install -r requirements.txt
 📄 Лицензия
 
